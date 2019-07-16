@@ -16,6 +16,9 @@
 6. npm run dev
   The application builds and browse the URL
 
+# Used Bulma.io for CSS
+npm install bulma
+
 ## Build Setup
 
 ``` bash
