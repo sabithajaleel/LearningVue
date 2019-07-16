@@ -19,6 +19,9 @@
 # Used Bulma.io for CSS
 npm install bulma
 
+# used Axios to consume APIs
+we can also use vue-resource to consume APIs
+
 ## Build Setup
 
 ``` bash
