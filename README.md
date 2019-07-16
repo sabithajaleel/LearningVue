@@ -2,6 +2,20 @@
 
 > A Vue.js project
 
+## development guidelines
+
+# install development environments
+1. download node and install it
+2. open command prompt -> npm i --global vue-cli
+  This will install vue client globally.
+3. Create a project using vue-cli
+  vue init webpack "ProjectName"
+  This will ask for ESLint and Test give "No"
+4. Successfully created project.
+5. Go to respective project folder, type cmd on address bar
+6. npm run dev
+  The application builds and browse the URL
+
 ## Build Setup
 
 ``` bash
